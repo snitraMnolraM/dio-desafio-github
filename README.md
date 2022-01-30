@@ -9,13 +9,13 @@ Desafio de Projeto sobre Git/Github
 
 # **Comandos Git**
 
-### Aprenda Git do básico ao avançado
+## Aprenda Git do básico ao avançado
 
 <br>
 
 <br>
 
-## Instalando e Configurando
+### Instalando e Configurando
 
 #### Instalação
 
@@ -515,4 +515,4 @@ git push origin develop
 
 
 
-#### 
+Fonte: [Comandos Git](https://comandosgit.github.io/)
